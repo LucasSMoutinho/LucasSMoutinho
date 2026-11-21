@@ -1,75 +1,93 @@
+
 <!-- ═══════════════ HEADER ═══════════════ -->
+
 <div align="center">
 
-<img src="assets/banner.svg" alt="Lucas Moutinho banner" width="100%"/>
+  <img src="assets/banner.png" alt="Lucas da Silva Moutinho - Data Scientist" width="100%"/>
 
-<a href="https://github.com/SEU-USUARIO-GITHUB">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00D4FF&center=true&vCenter=true&width=900&height=50&lines=Turning+raw+data+into+business+decisions;Predictive+models+for+credit+%26+recovery;Data+Science+Intern+%40+Ita%C3%BA+%E2%86%92+Junior+Data+Scientist+%F0%9F%9A%80;Transformando+dados+brutos+em+decis%C3%B5es+de+neg%C3%B3cio" alt="Typing SVG" />
-</a>
+  <br/>
 
-<br/>
+  <img src="https://img.shields.io/badge/Bradesco-Junior%20Data%20Scientist-CC092F?style=for-the-badge&logo=databricks&logoColor=white" alt="Bradesco - Junior Data Scientist" />
+  <img src="https://img.shields.io/badge/Credit-Recovery%20%26%20Strategy-00A4EF?style=for-the-badge&logo=target&logoColor=white" alt="Credit Recovery and Strategy" />
+  <img src="https://img.shields.io/badge/UFABC-Computer%20Science-1F6FEB?style=for-the-badge&logo=academia&logoColor=white" alt="UFABC" />
 
-<img src="https://img.shields.io/badge/Ita%C3%BA-Data%20Science%20Intern-EC7000?style=for-the-badge&logo=databricks&logoColor=white" alt="Itaú" />
-<img src="https://img.shields.io/badge/UFABC-Computer%20Science-1F6FEB?style=for-the-badge&logo=academia&logoColor=white" alt="UFABC" />
-<img src="https://img.shields.io/badge/Open%20to-Junior%20%26%20International%20Roles-2EA043?style=for-the-badge&logo=target&logoColor=white" alt="Open to Junior and international roles" />
+  <br/><br/>
 
-<br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=LucasSMoutinho&label=Views&color=00D4FF&style=flat-square" alt="Profile views" />
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO-GITHUB&label=Views&color=00D4FF&style=flat-square" alt="Profile views" />
-<a href="https://www.linkedin.com/in/lucas-da-silva-moutinho-0b3744273"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:lucas07moutinho@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/lucas-da-silva-moutinho-0b3744273"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:lucas07moutinho@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<br/><br/>
+  <br/><br/>
 
-🌎 <b> &nbsp;·&nbsp; 🇺🇸 English &nbsp;·&nbsp; 🇧🇷 Português
+  🌎 &nbsp;·&nbsp; 🇺🇸 English &nbsp;·&nbsp; 🇧🇷 Português
 
 </div>
 
 <br/>
 
 <!-- ═══════════════ SOBRE / ABOUT ═══════════════ -->
+
 ## 👨🏽‍💻 About me · Sobre mim
 
 <div align="center">
 
-> *"Raw data is just the beginning. What matters is the decision it makes possible."*
-> <br/>*"Dados brutos são só o começo. O que importa é a decisão que eles permitem tomar."*
+> **"Raw data is just the beginning. What matters is the decision it makes possible."**
+>
+> *"Dados brutos são só o começo. O que importa é a decisão que eles permitem tomar."*
 
 </div>
 
 ### 🇺🇸 English
 
-Hi! I'm **Lucas da Silva Moutinho**, a student at **UFABC** (Federal University of ABC, Brazil) pursuing degrees in **Computer Science** and **Science & Technology**, and a **Data Science Intern at Itaú Unibanco**, working in the **Credit Recovery** area. I enjoy following a problem end to end: understanding the business pain, preparing the data, modeling, and delivering the result to the people who make the decisions. We work collaboratively, keeping constant dialogue with the policy and credit areas and with the teams that will use the models, so we stay aligned on solving the right problem. I'm now looking to grow from intern to **Junior Data Scientist**.
+Hi! I'm **Lucas da Silva Moutinho**, a Computer Science and Science & Technology student at **UFABC (Federal University of ABC, Brazil)**, currently working as a **Junior Data Scientist at Bradesco**, in the **Credit Recovery & Strategy** area.
+
+My professional journey is strongly connected to the financial services industry, with experience in **Credit Risk, Credit Recovery, Machine Learning and predictive modeling**. Before joining Bradesco, I spent **1 year and 6 months at Itaú Unibanco**, working as a Data Science Intern, also in Credit Recovery.
+
+I enjoy working across the entire data science lifecycle: understanding business challenges, exploring and preparing data, developing predictive models, and translating analytical results into insights that support strategic decision-making.
+
+I'm also expanding my knowledge in **Large Language Models (LLMs), Prompt Engineering and AI-driven solutions**, exploring ways to improve data utilization, analytical processes and the value generated from existing datasets.
+
+My goal is to combine solid Data Science foundations, financial domain knowledge and emerging AI technologies to build solutions that generate meaningful business impact.
 
 ### 🇧🇷 Português
 
-Sou **Lucas da Silva Moutinho**, estudante da **UFABC** e estagiário de **Ciência de Dados no Itaú**, onde trabalho na área de **Recuperação de Crédito**. Gosto de acompanhar um problema de ponta a ponta: entender a dor do negócio, preparar os dados, modelar e levar o resultado até quem toma a decisão. Trabalhamos de forma colaborativa, mantendo um diálogo constante com as áreas de políticas, crédito e os times que utilizarão os modelos, garantindo que estejamos sempre alinhados com a resolução assertiva dos problemas. Busco evoluir para **Cientista de Dados Júnior**.
+Sou **Lucas da Silva Moutinho**, estudante de Ciência da Computação e Bacharelado em Ciência e Tecnologia na **UFABC (Universidade Federal do ABC)**, atualmente atuando como **Cientista de Dados Júnior no Bradesco**, na área de **Recuperação de Crédito & Estratégia**.
+
+Minha trajetória profissional está fortemente conectada ao mercado financeiro, com experiência em **Credit Risk, Recuperação de Crédito, Machine Learning e modelagem preditiva**. Antes de ingressar no Bradesco, atuei durante **1 ano e 6 meses no Itaú Unibanco**, como estagiário de Ciência de Dados, também na área de Recuperação de Crédito.
+
+Gosto de acompanhar todo o ciclo de desenvolvimento de soluções analíticas: compreender os desafios do negócio, explorar e preparar dados, desenvolver modelos preditivos e transformar resultados analíticos em informações relevantes para a tomada de decisões estratégicas.
+
+Paralelamente, venho aprofundando meus conhecimentos em **Large Language Models (LLMs), Prompt Engineering e soluções baseadas em Inteligência Artificial**, explorando possibilidades de aprimorar a utilização dos dados disponíveis, otimizar processos analíticos e extrair ainda mais valor das informações existentes.
+
+Meu objetivo é unir fundamentos sólidos de Ciência de Dados, conhecimento do mercado financeiro e novas tecnologias de IA para desenvolver soluções que gerem impacto real no negócio.
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>🎓 Education · Formação</h4>
       B.Sc. Computer Science &amp; Science and Technology<br/>
-      <sub>Ciências da Computação · Ciências &amp; Tecnologia</sub><br/>
+      <sub>Ciência da Computação · Ciência e Tecnologia</sub><br/>
       <sub><b>Universidade Federal do ABC (UFABC), Brazil</b></sub>
     </td>
     <td width="50%" valign="top">
-      <h4>💼 Current role · Atuação</h4>
-      Data Science Intern, Credit Recovery<br/>
-      <sub>Estágio em Ciência de Dados · Recuperação de Crédito</sub><br/>
-      <sub><b>Itaú Unibanco</b></sub>
+      <h4>💼 Current role · Atuação atual</h4>
+      Junior Data Scientist<br/>
+      <sub>Cientista de Dados Júnior</sub><br/>
+      <sub><b>Bradesco · Credit Recovery &amp; Strategy</b></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔭 Focus · Foco</h4>
-      Machine Learning, predictive modeling, applied statistics and data analysis<br/>
-      <sub>Machine Learning, modelagem preditiva, estatística aplicada e análise de dados</sub>
+      <h4>🔭 Professional Focus · Foco</h4>
+      Credit Risk, Machine Learning, predictive modeling, LLMs and Prompt Engineering<br/>
+      <sub>Credit Risk, Machine Learning, modelagem preditiva, LLMs e Engenharia de Prompts</sub>
     </td>
     <td width="50%" valign="top">
-      <h4>🎯 Next step · Próximo passo</h4>
-      Grow into a <b>Junior Data Scientist</b> role, with more scope and ownership<br/>
-      <sub>Evoluir para <b>Cientista de Dados Júnior</b>, com escopos maiores e mais autonomia</sub>
+      <h4>🚀 Previous experience · Experiência anterior</h4>
+      Data Science Intern · 1 year and 6 months<br/>
+      <sub>Estagiário de Ciência de Dados · 1 ano e 6 meses</sub><br/>
+      <sub><b>Itaú Unibanco · Credit Recovery</b></sub>
     </td>
   </tr>
 </table>
@@ -77,47 +95,74 @@ Sou **Lucas da Silva Moutinho**, estudante da **UFABC** e estagiário de **Ciên
 <br/>
 
 <!-- ═══════════════ STACK ═══════════════ -->
+
 ## 🛠️ Tech Stack · Stack Tecnológica
 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Web Services" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Amazon Web Services" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 
 </div>
 
 <br/>
 
 <!-- ═══════════════ EXPERIÊNCIA ═══════════════ -->
+
 ## 💼 Experience · Experiência
 
 <table>
   <tr>
     <td width="170" align="center">
       <img src="https://img.shields.io/badge/CURRENT%20%C2%B7%20ATUAL-2EA043?style=flat-square" alt="Current" /><br/><br/>
-      <b>Itaú Unibanco</b><br/>
-      <sub>Data Science Intern</sub><br/>
-      <sub>Credit Recovery</sub>
+      <b>Bradesco</b><br/>
+      <sub>Junior Data Scientist</sub><br/>
+      <sub>Credit Recovery &amp; Strategy</sub>
     </td>
     <td>
       <b>🇺🇸 English</b>
       <ul>
-        <li>🤖 Developing and applying <b>Machine Learning</b> models for credit recovery</li>
-        <li>🗄️ Handling <b>large-scale datasets</b> and building analytics pipelines</li>
-        <li>⚙️ Optimizing analytical processes and supporting <b>data-driven strategic decisions</b></li>
+        <li>📊 Applying <b>Data Science and Machine Learning</b> to credit recovery and strategic business challenges.</li>
+        <li>🤖 Developing analytical solutions and predictive models to support decision-making.</li>
+        <li>🎯 Working with data-driven approaches to improve credit strategies and business processes.</li>
       </ul>
       <b>🇧🇷 Português</b>
       <ul>
-        <li>🤖 Desenvolvimento e aplicação de modelos de <b>Machine Learning</b> voltados à recuperação de crédito</li>
-        <li>🗄️ Manipulação de <b>grandes volumes de dados</b> e construção de pipelines de análise</li>
-        <li>⚙️ Otimização de processos analíticos e suporte à <b>tomada de decisão estratégica</b> baseada em dados</li>
+        <li>📊 Aplicação de <b>Ciência de Dados e Machine Learning</b> em desafios estratégicos de recuperação de crédito.</li>
+        <li>🤖 Desenvolvimento de soluções analíticas e modelos preditivos para apoiar a tomada de decisão.</li>
+        <li>🎯 Utilização de abordagens orientadas por dados para aprimorar estratégias de crédito e processos de negócio.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="170" align="center">
+      <img src="https://img.shields.io/badge/PREVIOUS-64748B?style=flat-square" alt="Previous" /><br/><br/>
+      <b>Itaú Unibanco</b><br/>
+      <sub>Data Science Intern</sub><br/>
+      <sub>Credit Recovery</sub><br/>
+      <sub><b>1 year and 6 months</b></sub>
+    </td>
+    <td>
+      <b>🇺🇸 English</b>
+      <ul>
+        <li>🤖 Developed and applied <b>Machine Learning</b> models for credit recovery and payment propensity analysis.</li>
+        <li>🗄️ Worked with large-scale datasets, feature engineering and predictive modeling.</li>
+        <li>📈 Evaluated model performance using statistical and business-oriented metrics.</li>
+        <li>⚙️ Collaborated with credit policy and business teams to align analytical solutions with strategic objectives.</li>
+      </ul>
+      <b>🇧🇷 Português</b>
+      <ul>
+        <li>🤖 Desenvolvimento e aplicação de modelos de <b>Machine Learning</b> voltados à recuperação de crédito e análise de propensão de pagamento.</li>
+        <li>🗄️ Manipulação de grandes volumes de dados, engenharia de atributos e modelagem preditiva.</li>
+        <li>📈 Avaliação de performance de modelos utilizando métricas estatísticas e indicadores de negócio.</li>
+        <li>⚙️ Colaboração com as áreas de políticas de crédito e negócio para alinhar soluções analíticas aos objetivos estratégicos.</li>
       </ul>
     </td>
   </tr>
@@ -125,7 +170,28 @@ Sou **Lucas da Silva Moutinho**, estudante da **UFABC** e estagiário de **Ciên
 
 <br/>
 
+<!-- ═══════════════ FOCO PROFISSIONAL ═══════════════ -->
+
+## 🔭 Professional Focus · Focos de Atuação
+
+🇺🇸 **English**
+
+- **Credit Risk & Credit Recovery:** Predictive modeling, credit strategies and risk analytics.
+- **Machine Learning:** Classification, model evaluation, feature engineering and optimization.
+- **LLMs & Prompt Engineering:** Exploring LLM applications, prompt optimization and AI-driven analytical workflows.
+- **Data Science:** Applied statistics, data analysis and business-oriented solutions.
+
+🇧🇷 **Português**
+
+- **Credit Risk & Recuperação de Crédito:** Modelagem preditiva, estratégias de crédito e análise de risco.
+- **Machine Learning:** Classificação, avaliação de modelos, engenharia de atributos e otimização.
+- **LLMs & Prompt Engineering:** Exploração de aplicações com LLMs, otimização de prompts e fluxos analíticos apoiados por IA.
+- **Ciência de Dados:** Estatística aplicada, análise de dados e soluções orientadas ao negócio.
+
+<br/>
+
 <!-- ═══════════════ CERTIFICAÇÕES ═══════════════ -->
+
 ## 🏆 Certifications & Badges · Certificações
 
 <div align="center">
@@ -170,6 +236,7 @@ Sou **Lucas da Silva Moutinho**, estudante da **UFABC** e estagiário de **Ciên
 <br/>
 
 <!-- ═══════════════ ESTATÍSTICAS ═══════════════ -->
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -184,13 +251,14 @@ Sou **Lucas da Silva Moutinho**, estudante da **UFABC** e estagiário de **Ciên
 <br/>
 
 <!-- ═══════════════ CONECTAR ═══════════════ -->
+
 ## 📫 Let's Connect · Vamos Conectar?
 
 <div align="center">
 
-🇺🇸 I'm open to conversations about **Junior Data Science roles**, ideas on ML applied to credit, and collaboration on data projects.
+🇺🇸 Always open to exchanging ideas about **Data Science, Machine Learning, Credit Risk, financial services, LLMs and emerging AI technologies**.
 
-🇧🇷 Estou aberto a conversas sobre **oportunidades Júnior em Data Science**, troca de ideias sobre ML aplicado a crédito e colaborações em projetos de dados.
+🇧🇷 Aberto a trocar conhecimentos e experiências sobre **Ciência de Dados, Machine Learning, Credit Risk, mercado financeiro, LLMs e novas aplicações de Inteligência Artificial**.
 
 <br/>
 
