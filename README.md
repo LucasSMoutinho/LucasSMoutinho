@@ -235,21 +235,6 @@ Meu objetivo é unir fundamentos sólidos de Ciência de Dados, conhecimento do 
 
 <br/>
 
-<!-- ═══════════════ ESTATÍSTICAS ═══════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=LucasSMoutinho&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSMoutinho&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com?user=LucasSMoutinho&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
-
-<br/>
-
 <!-- ═══════════════ CONECTAR ═══════════════ -->
 
 ## 📫 Let's Connect · Vamos Conectar?
